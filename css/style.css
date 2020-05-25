@@ -1,0 +1,302 @@
+body {
+
+margin: 0;
+background-color: #ADD7F6;
+background-image: url(/images/background4.jpg);
+}
+
+
+*{
+margin: 0;
+padding: 0;
+list-style: none;
+text-decoration: none;
+}
+
+
+.inner-header{
+
+text-align: center;
+width: 1920px;
+height: 20px;
+display: block;
+background-color: #6f91c7;
+font: 'Ubunta'
+
+}
+
+h1 {
+
+text-align: center;
+vertical-align: middle;
+
+
+}
+
+h4{
+
+text-align: center;   
+vertical-align: middle;
+font-size: 12px;
+
+
+}
+
+
+
+
+
+
+
+.main-body-box-1{
+
+    width: 1000px;
+    height: 100px;
+    margin: 100px auto;
+    margin-bottom: 2px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    vertical-align: middle;
+    text-shadow: 2px 2px white;
+    text-decoration: underline;
+    color: deepskyblue;
+
+}
+
+.main-body-box-2{
+
+    width: 1000px;
+    height: 100px;
+    margin: 2px auto;
+    margin-top: 2px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    text-shadow: 2px 2px white;
+    text-decoration: underline;
+
+}
+
+.parting-main-body{
+
+    width: 1920px;
+    height: 5px;
+    display: block;
+    margin: 0 auto;
+    background-color: #516179;
+
+}
+.main-body-box-3{
+
+    width: 1000px;
+    height: 85px;
+    display: block;
+    margin: 50px auto;
+    background-color: #87BFFF;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 25px;
+    text-align: center;
+   
+
+}
+
+.main-body-box-4{
+
+    width: 1200px;
+    height: 220px;
+    display: block;
+    margin: auto;
+    background-color: #87BFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    border-radius: 25px;
+    text-align: left;
+    
+    
+}
+
+.main-body-box-5{
+
+    width: 1200px;
+    height: 220px;
+    display: block;
+    margin: 50px auto;
+    background-color:#87BFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    border-radius: 25px;
+    text-align: left;
+    
+
+}
+
+.main-body-box-6{
+
+    width: 1200px;
+    height: 220px;
+    display: block;
+    margin: 50px auto;
+    background-color: #87BFFF;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 25px;
+    text-align: left;
+    margin-bottom: 50px;
+    
+    
+}
+
+.main-body-box-7{
+
+    width: 1200px;
+    height: 200px;
+    display: block;
+    margin: 50px auto;
+    background-color: #87BFFF;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 75px;
+    
+}
+
+
+
+.name-title {
+width: 100px;
+height: 100px;
+margin: 1000px
+
+
+}
+.p1 {
+
+font-size: 16px;
+
+}
+
+.h3 {
+
+font-size: 24px;
+
+}
+
+.mugshot {
+
+float: left;
+margin: 25px;
+position: static;
+
+
+}
+
+.graduate-icon {
+
+    float: left;
+    margin: 25px;
+    position: static;
+    
+    }
+
+.briefcase-icon img{
+
+height: 150px;
+width: 150px;
+margin: 25px;
+float: left;
+}
+
+.box-6-text {
+
+margin-left: 50px;
+font-size: 20px;
+
+}
+
+.box-6-text h3{
+
+text-align: center;
+
+}
+
+.facebook-section img {
+
+width: 100px;
+height: 100px;
+padding-top: 10px;
+}
+
+.instagram-section img {
+
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+    
+}
+
+.github-section img {
+
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+
+}
+
+.facebook-section {
+
+float: left;
+width: 30%;
+display: inline-block;
+padding-left: 3.33%;
+margin-top: 15px;
+text-align: center;
+}
+
+.instagram-section {
+
+   
+    width: 30%;
+    display: inline-block;
+    padding-left: 1.67%;
+    padding-right: 1.67%;
+    margin-top: 15px;
+    text-align: center;
+
+    }
+
+.github-section {
+
+   float: right;
+    width: 30%;
+    display: inline-block;
+    padding-right: 3.33%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.main-body-box-slideshow {
+
+    width: 1200px;
+    height: 930px;
+    display: block;
+    margin: 50px auto;
+    background-color: #87BFFF;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 25px;
+    
+
+}
+
+.slideshow-container {
+
+padding-top: 25px;
+
+}
+
+.numbertext {
+
+font-family: 'Roboto';
+text-align: center;
+}
