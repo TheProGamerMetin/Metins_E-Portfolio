@@ -2,7 +2,7 @@ body {
 
 margin: 0;
 background-color: #ADD7F6;
-background-image: url(https://i.imgur.com/MVvb8W9.jpg);
+background-image: url(https://imgur.com/Jk8n8EP.jpg);
 }
 
 
@@ -76,7 +76,8 @@ font-size: 12px;
     vertical-align: middle;
     text-shadow: 2px 2px white;
     text-decoration: underline;
-
+    color: deepskyblue;
+   
 }
 
 .parting-main-body{
@@ -300,3 +301,67 @@ padding-top: 25px;
 font-family: 'Roboto';
 text-align: center;
 }
+
+.email-box {
+
+    width: 1000px;
+    height: 360px;
+    display: block;
+    margin: 50px auto;
+    background-color: #87BFFF;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 25px;
+    text-align: center;
+   font-size: 28px;
+
+}
+
+.mail-address-box {
+
+    width: 1000px;
+    height: 950px;
+    display: block;
+    margin: 50px auto;
+    background-color: #87BFFF;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 25px;
+    text-align: center;
+   font-size: 28px;
+
+}
+
+.address-note {
+
+font-size: 20px;
+color: darkred;
+}
+
+.contact-link {
+
+width: 180px;
+height: 36px;
+background-color: #87BFFF;
+text-align: center;
+text-decoration: none;
+color: white;
+font-size: 20px;
+margin: 50px auto;
+border-radius: 5px;
+}
+
+.contact-link h2{
+
+   
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+
+    }
+
+    .contact-link:hover h2{
+
+   color: #6f91c7;
+
+    }
